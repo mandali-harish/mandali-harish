@@ -6,3 +6,5 @@
 - 📫 How to reach me: mail me mandali.harish@gmail.com
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: Loading.....
+
+![mandali-harish's Stats](https://github-readme-stats.vercel.app/api?username=mandali-harish&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
