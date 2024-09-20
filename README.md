@@ -8,3 +8,5 @@
 - ⚡ Fun fact: Loading.....
 
 ![mandali-harish's Stats](https://github-readme-stats.vercel.app/api?username=mandali-harish&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mandali-harish&layout=compact&theme=vision-friendly-dark)](https://github.com/mandali-harish/github-readme-stats)
