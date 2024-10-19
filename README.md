@@ -7,6 +7,10 @@
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: Loading.....
 
-![mandali-harish's Stats](https://github-readme-stats.vercel.app/api?username=mandali-harish&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
+![mandali-harish's Stats](https://github-readme-stats.vercel.app/api?username=mandali-harish&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mandali-harish&theme=dark&hide_border=true)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mandali-harish&layout=compact&theme=vision-friendly-dark)](https://github.com/mandali-harish/github-readme-stats)
+
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=mandali-harish&limit=5&theme=onedark&combine_all_yearly_contributions=true)
